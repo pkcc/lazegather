@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/lazegather/CopilotIndices/17.12.38.29086
+/.vs/lazegather/FileContentIndex
+/.vs/lazegather/v17
+*.sqlite
+*.json
