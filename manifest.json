@@ -7,6 +7,7 @@
         "index.js": "10ed97d63d3c9129ba902e3d30da14bb2915a6408ebb3aea83c31147d544301a",
         "license/index.js": "4e22dfcbf525696700f741af6eb8a20b5286579011f0bcbc63749e0b6585a319",
         "license/license.obf.jsc": "56cb7fde871a282b28011617b6ec6944c29415d31dd4372217c3fbe752abb4b8",
+        "module.json": "b927f3e49fb98eb3eefbc29782308caeb5110f992341953b343de6e9b5d74a6a",
         "node_modules/bytenode/cli.js": "c961b62aeafb44fd3fe87ed6807894354e4ba396d13460b5cbaf6f6fca589113",
         "node_modules/bytenode/cli.jsc": "3447efcc7e706086aae5907f03d1761338205b37fab263a04d7ca02521381ed6",
         "node_modules/bytenode/index.js": "4a8d2aafdf814f6c9a3f170587a209899b45ddae5370213451a23aa6724306ec",
