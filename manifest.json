@@ -6,13 +6,13 @@
         "config.json": "ef3a122cce38415f668a7b04f2b5ddca4d80a52eb1e0f7f9fafecde2002dbb5c",
         "index.js": "10ed97d63d3c9129ba902e3d30da14bb2915a6408ebb3aea83c31147d544301a",
         "license/index.js": "4e22dfcbf525696700f741af6eb8a20b5286579011f0bcbc63749e0b6585a319",
-        "license/license.obf.jsc": "d7b77cc78c6b4613a75e100901a76d6ed3113bfb989d99c293489d793cfa0361",
+        "license/license.obf.jsc": "5d68b893305e023c0c844d78eb7b28448fd9bc4eb78b750d9e42969aa8d7f1d4",
         "module.json": "ea73f3bbaea496bba58c41327e498b4dee2963f1bc2c02b07562f20071b1ad1f",
         "node_modules/bytenode/cli.js": "c961b62aeafb44fd3fe87ed6807894354e4ba396d13460b5cbaf6f6fca589113",
         "node_modules/bytenode/cli.jsc": "3447efcc7e706086aae5907f03d1761338205b37fab263a04d7ca02521381ed6",
         "node_modules/bytenode/index.js": "4a8d2aafdf814f6c9a3f170587a209899b45ddae5370213451a23aa6724306ec",
         "node_modules/bytenode/README.md": "134fd227367922b78acaee48b008507f6e2c240869cd830b553acf084b24680c",
-        "script.obf.jsc": "32bc0ea64ce58f02ea6677f3b60d6526916f959f2920f192b094670f9348d33e",
+        "script.obf.jsc": "606b9b53f34c253a5351155eb1e123692a510c97abf7d795a1cbfda8f8fa0fc9",
         "settings_migrator.js": "ba8da909f5f0b9935feb49644fa40bd26d97099c09da921c0f58010a3e46af28"
     },
     "defs": {
