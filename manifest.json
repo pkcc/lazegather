@@ -1,0 +1,43 @@
+{
+    "files": {
+        "bookmark/7004.json": "2508907b65f1262cfe574c2e342cc8d85c48f6063a56997ed8f3d1d13a24247f",
+        "bookmark/danger.json": "c1bf70c75d5b5734391de02163394343594ed9b36e3f7948d0b8701d48aac966",
+        "bookmark/success.json": "6d06b5a7d054433760168c734fc6bbe8ac3369bddc8d718ad34c094a1070aa4c",
+        "config.json": "ef3a122cce38415f668a7b04f2b5ddca4d80a52eb1e0f7f9fafecde2002dbb5c",
+        "index.js": "10ed97d63d3c9129ba902e3d30da14bb2915a6408ebb3aea83c31147d544301a",
+        "license/index.js": "4e22dfcbf525696700f741af6eb8a20b5286579011f0bcbc63749e0b6585a319",
+        "license/license.obf.jsc": "a9bbecb512e76950191e35de2aeade0419a71c9bdbab03c36f90baaa8e776a37",
+        "script.obf.jsc": "5f0a92893fb3f48f71984967fc9a73b4e175688982b16fb481ce397b8fc75d7a",
+        "settings_migrator.js": "ba8da909f5f0b9935feb49644fa40bd26d97099c09da921c0f58010a3e46af28"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_USE_ITEM": 3,
+        "C_REQUEST_SPAWN_SERVANT": 2,
+        "C_REQUEST_DESPAWN_SERVANT": 1,
+        "S_EXIT": 3,
+        "S_LOAD_TOPO": 3,
+        "S_LOGIN": [
+            13,
+            14
+        ],
+        "S_ITEMLIST": [
+            2,
+            3
+        ],
+        "S_INVEN": 18,
+        "S_SPAWN_COLLECTION": 4,
+        "S_DESPAWN_COLLECTION": 2,
+        "S_SPAWN_DROPITEM": [
+            8,
+            9
+        ],
+        "S_DESPAWN_DROPITEM": 4,
+        "S_INSTANT_MOVE": 3,
+        "S_CHAT": [
+            3,
+            4
+        ],
+        "S_DUNGEON_EVENT_MESSAGE": 2
+    }
+}
