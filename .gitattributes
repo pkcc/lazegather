@@ -1,0 +1,5 @@
+*.jsc binary
+*.obf.js binary
+*.js text eol=lf
+*.md text eol=lf
+*.def text eol=lf
