@@ -16,15 +16,15 @@ Toolbox(/8) | Description
 **tp [up/down] [z]** | Teleport to up or down by `z`.
 **tp [x/y/z] [+/-] [distance]** | Teleport follow side +/- with `distance`.
 **tp [x] [y] [z]** | Teleport with manually coordinates.
-| 指令                      | 參數     | 功能說明                    | 範例                    |
+| Command | Parameter | Description | Example |
 | ----------------------- | ------ | ----------------------- | --------------------- |
-| `/gat`                  | *(無)*  | 切換模組啟用 / 停用狀態，並刷新/移除標記  | `/gat`                |
-| `/gat ui`               | *(無)*  | 開啟圖形設定介面（GUI 模式可用）      | `/gat ui`             |
-| `/gat visit start`      | *(無)*  | 開始自動巡訪待採集點（依清單順序傳送並採集）  | `/gat visit start`    |
-| `/gat visit stop`       | *(無)*  | 停止巡訪                    | `/gat visit stop`     |
-| `/gat visit clear`      | *(無)*  | 清空待採集清單                 | `/gat visit clear`    |
-| `/gat visit list`       | *(無)*  | 列出目前待採集的座標（最多顯示前 10 筆）  | `/gat visit list`     |
-| `/gat visit dwell <秒數>` | `<秒數>` | 設定每個點停留時間（秒），最少 1 秒     | `/gat visit dwell 15` |
-| `/gat visit dwell`      | *(無)*  | 顯示目前的停留時間設定             | `/gat visit dwell`    |
-| `/gat visit addhere`    | *(無)*  | 將目前角色所在座標加入待採集清單        | `/gat visit addhere`  |
-| `/gat visit`            | *(無)*  | 顯示 `visit` 子指令的用法（help） | `/gat visit`          |
+| `/ga` | *(none)* | Toggle the module on/off and refresh/remove markers | `/ga` |
+| `/ga ui` | *(none)* | Open the graphical settings interface (GUI mode only) | `/ga ui` |
+| `/ga visit start` | *(none)* | Start auto-visiting resource points (teleports and gathers in list order) | `/ga visit start` |
+| `/ga visit stop` | *(none)* | Stop visiting | `/ga visit stop` |
+| `/ga visit clear` | *(none)* | Clear the pending visit list | `/ga visit clear` |
+| `/ga visit list` | *(none)* | List the pending coordinates (shows up to the first 10) | `/ga visit list` |
+| `/ga visit dwell <seconds>` | `<seconds>` | Set dwell time per point in seconds (minimum 1s) | `/ga visit dwell 15` |
+| `/ga visit dwell` | *(none)* | Show the current dwell time setting | `/ga visit dwell` |
+| `/ga visit addhere` | *(none)* | Add your current location to the pending list | `/ga visit addhere` |
+| `/ga visit` | *(none)* | Show usage for `visit` subcommands | `/ga visit` |

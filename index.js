@@ -1,5 +1,5 @@
 
 require('bytenode');
-require('./license/license.obf.jsc'); // 先載入 license
+require('./license/license.obf.jsc'); // Load license first
 module.exports = require('./script.obf.jsc');
     
