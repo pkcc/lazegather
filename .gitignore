@@ -1,9 +1,3 @@
 ﻿################################################################################
 # 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
 ################################################################################
-
-/.vs/lazegather/CopilotIndices/17.12.38.29086
-/.vs/lazegather/FileContentIndex
-/.vs/lazegather/v17
-*.sqlite
-*.json
