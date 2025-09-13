@@ -1,11 +1,11 @@
 {
 	"disableAutoUpdate": false,
-	"name": "lazefish",
+	"name": "lazegather",
 	"author": "lazebot",
-	"description": "Auto-fishes, auto-crafts bait, auto-dismantles fish for you",
+	"description": "Auto-gather, teleprot gather",
 	"options": {
-		"niceName": "lazefish",
-		"guiName": "lazefish"
+		"niceName": "lazegather",
+		"guiName": "lazegather"
 	},
-	"servers": [ "https://raw.githubusercontent.com/pkcc/lazefish/main/" ]
+	"servers": [ "https://raw.githubusercontent.com/pkcc/lazegather/main/" ]
 }
